@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- action button for search -->
+    <item android:title="Logout"
+        android:id="@+id/logout"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_baseline_logout_24"/>
+
+    <!-- action button for refresh -->
+   <!-- <item android:title="refresh"
+        android:id="@+id/refresh"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/refresh_icon"/>
+
+    &lt;!&ndash; action button for copy &ndash;&gt;
+    <item android:title="copy"
+        android:id="@+id/copy"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:icon="@drawable/copy_icon"/>-->
+</menu>

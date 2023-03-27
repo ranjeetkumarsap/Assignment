@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="login">LOG IN</string>
+    <string name="signed">SIGN UP</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="current_label">Current</string>
+    <string name="humidity_label">Humidity</string>
+    <string name="wind_label">Wind</string>
+    <string name="wind_unit_label">%.0f km/hr</string>
+</resources>
